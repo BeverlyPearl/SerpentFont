@@ -1,0 +1,61 @@
+FONTLOG for the Serpent font
+
+This file provides detailed information on the Serpent Font Software.
+This information should be distributed along with the Serpent font
+and any derivative works.
+
+Basic Font Information
+
+Serpent is a Unicode typeface family that supports basic latin characters as well as extensions for French typography and miscellaneous other glyphs.
+
+More specifically, this release supports the following Unicode ranges:
+
+U+0020-U+007E
+U+00A0
+U+00A2-U+00A3
+U+00A8-U+00A9
+U+00AB
+U+00AE-U+00AF
+U+00B0-U+00B1
+U+00B4
+U+00B8
+U+00BB
+U+00BF
+U+00C0
+U+00C2
+U+00C6-U+00CB
+U+00CE-U+00CF
+U+00D1
+U+00D4
+U+00D6
+U+00D7
+U+00D8
+U+00DB-U+00DC
+U+00E0
+U+00E2
+U+00E4
+U+00E6-U+00EB
+U+00EE-U+00EF
+U+00F1
+U+00F4-U+00F8
+U+00FB-U+00FC
+U+0152-U+0153
+U+2010
+U+2017-U+2019
+U+201C-U+201D
+U+203D
+U+204E
+
+ChangeLog
+
+3 June 2022 (Beverly Pearl) Serpent Version 1.0
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Beverly Pearl
+W: https://github.com/BeverlyPearl
+D: Designer - original Roman glyphs
