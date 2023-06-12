@@ -1,0 +1,8 @@
+ 
+Procedure for creating a new release:
+
+1. Update the "Version", "sfnt Revision", and "Copyright" fields under Font Info > PS Names in FontForge.
+2. Update the "Version" field under Font Info > TTF Names in FontForge.
+3. Generate a new "OpenType (CFF)" file using File > Generate Fonts in FontForge (Due to acknowledged bugs in FontForge's verifier, some unresolved "Errors detected" results are expected.)
+4. Update the FONTLOG.txt file
+5. Create a new git tag for the release
